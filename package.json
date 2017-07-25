@@ -12,6 +12,14 @@
     "url": "git+ssh://git@github.com/filly82/node-futils.git"
   },
   "dependencies": {
-    "matroska": "latest"
+    "matroska": "latest",
+    "xmldoc": "latest",
+    "feedparser": "latest",
+    "mailparser": "0.6.2",
+    "nodemailer": "2.7.2",
+    "nodemailer-smtp-transport": "latest",
+    "imap": "latest",
+    "request": "latest"
+
   }
 }
