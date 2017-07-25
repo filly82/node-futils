@@ -1,0 +1,17 @@
+{
+  "name": "node-futils",
+  "version": "0.0.5",
+  "private": true,
+  "main": "index.js",
+  "description": "Filan Utils for node.js",
+  "author": {
+    "name": "Nahid Filan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/filly82/node-futils.git"
+  },
+  "dependencies": {
+    "matroska": "latest"
+  }
+}
