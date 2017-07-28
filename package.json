@@ -19,7 +19,7 @@
     "nodemailer": "2.7.2",
     "nodemailer-smtp-transport": "latest",
     "imap": "latest",
-    "request": "latest"
-
+    "request": "latest",
+    "iconv-lite": "latest"
   }
 }
