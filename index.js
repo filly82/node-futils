@@ -12,6 +12,7 @@ module.exports = {
     mailUtils: require('./lib/MailUtils'),
     mkvManager: require('./lib/MkvManager'),
     stringUtils: require('./lib/StringUtils'),
+    mediaUtils: require('./lib/MediaUtils'),
 
 
     mergeObjects: function (obj1, obj2)
