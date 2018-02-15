@@ -20,6 +20,9 @@
     "nodemailer-smtp-transport": "latest",
     "imap": "latest",
     "request": "latest",
-    "iconv-lite": "latest"
+    "iconv-lite": "latest",
+    "readdir-enhanced": "latest",
+    "axios": "latest",
+    "async": "latest"
   }
 }
