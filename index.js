@@ -13,6 +13,7 @@ module.exports = {
     mkvManager: require('./lib/MkvManager'),
     stringUtils: require('./lib/StringUtils'),
     mediaUtils: require('./lib/MediaUtils'),
+    CachedRequest: require('./lib/CachedRequest'),
 
 
     mergeObjects: function (obj1, obj2)
