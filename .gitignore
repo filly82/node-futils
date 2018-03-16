@@ -60,7 +60,4 @@ typings/
 .idea
 *.iml
 
-**/.vscode
-ftestrun.js
-
 **/nbproject

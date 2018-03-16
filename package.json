@@ -12,17 +12,17 @@
     "url": "git+ssh://git@github.com/filly82/node-futils.git"
   },
   "dependencies": {
-    "matroska": "latest",
-    "xmldoc": "latest",
-    "feedparser": "latest",
+    "async": "latest",
+    "axios": "latest",
+    "feedparser": "^2.2.9",
+    "iconv-lite": "latest",
+    "imap": "latest",
     "mailparser": "latest",
+    "matroska": "latest",
     "nodemailer": "latest",
     "nodemailer-smtp-transport": "latest",
-    "imap": "latest",
-    "request": "latest",
-    "iconv-lite": "latest",
     "readdir-enhanced": "latest",
-    "axios": "latest",
-    "async": "latest"
+    "request": "latest",
+    "xmldoc": "latest"
   }
 }
