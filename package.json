@@ -23,6 +23,7 @@
     "nodemailer-smtp-transport": "latest",
     "readdir-enhanced": "latest",
     "request": "latest",
-    "xmldoc": "latest"
+    "xmldoc": "latest",
+    "lokijs": "latest"
   }
 }
