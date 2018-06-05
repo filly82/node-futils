@@ -1,5 +1,5 @@
 var CachedRequest = require('./lib/CachedRequest');
-var cachedRequest = new CachedRequest('./test', true);
+var cachedRequest = new CachedRequest('./test.db', true);
 
 let promises = [];
 promises.push(cachedRequest.doRequest({'url': 'https://www.filan.de?a=1', 'duration': '3d'}));
