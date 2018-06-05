@@ -24,6 +24,6 @@
     "readdir-enhanced": "latest",
     "request": "latest",
     "xmldoc": "latest",
-    "lokijs": "latest"
+    "nedb": "latest"
   }
 }
