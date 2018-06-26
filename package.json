@@ -1,29 +1,31 @@
 {
-  "name": "node-futils",
-  "version": "0.0.7",
-  "private": true,
-  "main": "index.js",
-  "description": "Filan Utils for node.js",
-  "author": {
-    "name": "Nahid Filan"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/filly82/node-futils.git"
-  },
-  "dependencies": {
-    "async": "latest",
-    "axios": "latest",
-    "feedparser": "^2.2.9",
-    "iconv-lite": "latest",
-    "imap": "latest",
-    "mailparser": "latest",
-    "matroska": "latest",
-    "nodemailer": "latest",
-    "nodemailer-smtp-transport": "latest",
-    "readdir-enhanced": "latest",
-    "request": "latest",
-    "xmldoc": "latest",
-    "nedb": "latest"
-  }
+   "name": "node-futils",
+   "version": "0.0.8",
+   "private": true,
+   "main": "index.js",
+   "description": "Filan Utils for node.js",
+   "author": {
+      "name": "Nahid Filan"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/filly82/node-futils.git"
+   },
+   "dependencies": {
+      "async": "latest",
+      "axios": "latest",
+      "feedparser": "^2.2.9",
+      "iconv-lite": "latest",
+      "imap": "latest",
+      "mailparser": "latest",
+      "matroska": "latest",
+      "nodemailer": "latest",
+      "nodemailer-smtp-transport": "latest",
+      "readdir-enhanced": "latest",
+      "request": "latest",
+      "xmldoc": "latest",
+      "nedb": "latest",
+      "zlib": "latest",
+      "string-to-stream": "latest"
+   }
 }
