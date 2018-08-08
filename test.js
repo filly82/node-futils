@@ -17,7 +17,16 @@ if (!Promise.allSettled)
    };
 }
 
-FeedUtils.getFeed("https://news.google.com/news/rss/search/section/q/Ludwigshafen/Ludwigshafen?hl=de&gl=DE&ned=de", function (data) 
+cachedRequest.doRequest({ 'url': 'https://www.filan.de?a=66', 'duration': '3d' }).then(function (responseData)
+{
+   console.log('responseData');
+   console.log(responseData[0]);
+   console.log('----------------------------------------------------------------------------------------------------------');
+   console.log('additionalInformation');
+   console.log(responseData[1]);
+});
+
+if (false) FeedUtils.getFeed("https://news.google.com/news/rss/search/section/q/Ludwigshafen/Ludwigshafen?hl=de&gl=DE&ned=de", function (data) 
 {
    console.log('data')
 
