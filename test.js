@@ -17,7 +17,7 @@ if (!Promise.allSettled)
    };
 }
 
-cachedRequest.doRequest({ 'url': 'https://www.filan.de?a=66', 'duration': '3d' }).then(function (responseData)
+if (false) cachedRequest.doRequest({ 'url': 'https://www.filan.de?a=66', 'duration': '3d' }).then(function (responseData)
 {
    console.log('responseData');
    console.log(responseData[0]);
