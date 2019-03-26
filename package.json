@@ -12,23 +12,24 @@
       "url": "git+ssh://git@github.com/filly82/node-futils.git"
    },
    "dependencies": {
-      "async": "^2.6.1",
+      "async": "^2.6.2",
+      "cheerio": "^1.0.0-rc.2",
       "feedparser": "^2.2.9",
-      "iconv-lite": "^0.4.23",
-      "imap": "latest",
+      "iconv-lite": "^0.4.24",
+      "imap": "^0.8.19",
       "js2xmlparser": "^4.0.0",
       "jsonic": "^0.3.1",
-      "mailparser": "^2.3.2",
-      "matroska": "latest",
-      "nedb": "latest",
-      "nodemailer": "^4.6.7",
-      "nodemailer-smtp-transport": "latest",
-      "readdir-enhanced": "^2.2.1",
-      "request": "latest",
-      "request-promise-native": "latest",
-      "string-to-stream": "latest",
+      "mailparser": "^2.5.0",
+      "matroska": "^2.2.3",
+      "nedb": "^1.8.0",
+      "nodemailer": "^4.7.0",
+      "nodemailer-smtp-transport": "^2.7.4",
+      "readdir-enhanced": "^2.2.4",
+      "request": "^2.88.0",
+      "request-promise-native": "^1.0.7",
+      "string-to-stream": "^1.1.1",
       "xml2js": "^0.4.19",
       "xmldoc": "^1.1.2",
-      "zlib": "latest"
+      "zlib": "^1.0.5"
    }
 }
