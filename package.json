@@ -32,6 +32,7 @@
       "string-to-stream": "^1.1.1",
       "xml2js": "^0.4.19",
       "xmldoc": "^1.1.2",
-      "zlib": "^1.0.5"
+      "zlib": "^1.0.5",
+      "firebase-admin": "^7.3.0"
    }
 }
