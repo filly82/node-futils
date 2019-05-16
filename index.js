@@ -16,6 +16,7 @@ module.exports = {
    mediaUtils: require('./lib/MediaUtils'),
    CachedRequest: require('./lib/CachedRequest'),
    ZimbraApiClient: require('./lib/ZimbraApiClient'),
-   CalibreUtils: require('./lib/CalibreUtils')
+   CalibreUtils: require('./lib/CalibreUtils'),
+   FirebaseUtils: require('./lib/FirebaseUtils')
 
 };
