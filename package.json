@@ -16,6 +16,7 @@
       "cheerio": "^1.0.0-rc.3",
       "feedparser": "^2.2.9",
       "firebase-admin": "^8.2.0",
+      "grpc": "^1.21.1",
       "iconv-lite": "^0.4.24",
       "image-data-uri": "^2.0.0",
       "imap": "^0.8.19",
