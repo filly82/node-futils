@@ -1,6 +1,6 @@
 {
    "name": "node-futils",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "private": true,
    "main": "index.js",
    "description": "Filan Utils for node.js",
@@ -34,6 +34,7 @@
       "string-to-stream": "^3.0.1",
       "xml2js": "^0.4.23",
       "xmldoc": "^1.1.2",
-      "zlib": "^1.0.5"
+      "zlib": "^1.0.5",
+      "deepmerge": "^4.2.2"
    }
 }
