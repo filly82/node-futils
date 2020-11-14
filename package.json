@@ -3,6 +3,7 @@
    "version": "1.0.3",
    "private": true,
    "main": "index.js",
+   "type": "module",
    "description": "Filan Utils for node.js",
    "author": {
       "name": "Nahid Filan"

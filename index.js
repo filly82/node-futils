@@ -1,22 +1,43 @@
-/**
- * Created by Filly on 18.07.2017.
- */
-'use strict';
+import
+{
+   ZimbraApiClient,
+   TaskFolder,
+   Folder,
+   Message,
+   Task,
+   MessageFolder,
+   NewTask
+} from './lib/zimbraApiClient/index.js';
+import CachedRequest from './lib/CachedRequest.js';
+import CalDavUtils from './lib/CalDavUtils.js';
+import CalibreUtils from './lib/CalibreUtils.js';
+import FileUtils from './lib/FileUtils.js';
+import FirebaseUtils from './lib/FirebaseUtils.js';
+import FormatUtils from './lib/FormatUtils.js';
+import MailUtils from './lib/MailUtils.js';
+import MediaUtils from './lib/MediaUtils.js';
+import MkvManager from './lib/MkvManager.js';
+import StringUtils from './lib/StringUtils.js';
+import Utils from './lib/Utils.js';
 
-module.exports = {
-
-   Utils: require('./lib/Utils'),
-   calDavUtils: require('./lib/CalDavUtils'),
-   feedUtils: require('./lib/FeedUtils'),
-   fileUtils: require('./lib/FileUtils'),
-   formatUtils: require('./lib/FormatUtils'),
-   mailUtils: require('./lib/MailUtils'),
-   mkvManager: require('./lib/MkvManager'),
-   stringUtils: require('./lib/StringUtils'),
-   mediaUtils: require('./lib/MediaUtils'),
-   CachedRequest: require('./lib/CachedRequest'),
-   ZimbraApiClient: require('./lib/zimbraApiClient'),
-   CalibreUtils: require('./lib/CalibreUtils'),
-   FirebaseUtils: require('./lib/FirebaseUtils')
-
+export
+{
+   ZimbraApiClient,
+   TaskFolder,
+   Folder,
+   Message,
+   Task,
+   MessageFolder,
+   NewTask,
+   CachedRequest,
+   CalDavUtils,
+   CalibreUtils,
+   FileUtils,
+   FirebaseUtils,
+   FormatUtils,
+   MailUtils,
+   MediaUtils,
+   MkvManager,
+   StringUtils,
+   Utils
 };
