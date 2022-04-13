@@ -13,7 +13,7 @@
       "url": "git+ssh://git@github.com/filly82/node-futils.git"
    },
    "dependencies": {
-      "async": "^3.2.1",
+      "async": "^3.2.2",
       "cheerio": "^1.0.0-rc.10",
       "feedparser": "^2.2.10",
       "firebase-admin": "^9.12.0",
