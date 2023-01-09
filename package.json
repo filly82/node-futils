@@ -16,7 +16,7 @@
       "async": "^3.2.1",
       "cheerio": "^1.0.0-rc.10",
       "feedparser": "^2.2.10",
-      "firebase-admin": "^9.12.0",
+      "firebase-admin": "^11.4.1",
       "iconv-lite": "^0.6.3",
       "image-data-uri": "^2.0.1",
       "imap": "^0.8.19",
